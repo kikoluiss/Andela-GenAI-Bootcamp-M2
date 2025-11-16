@@ -1,0 +1,68 @@
+Employee Onboarding Guide – Processes, Workflows & System Procedures
+
+This guide defines the standardized onboarding workflow used across all departments. It ensures efficient assimilation of new employees while meeting documentation, security, and tax requirements.
+
+1. Pre-Boarding Overview
+
+Before a new hire’s first day, the following actions must be completed:
+- Offer letter signed via DocuSign
+- Background check cleared (criminal, employment verification, education verification)
+- Equipment requests submitted to IT
+- System accounts provisioned through the HR+ Identity Management service
+
+Account provisioning includes:
+- HR+ system access
+- Email & calendar setup
+- SSO access tokens
+- VPN configuration (if remote)
+
+2. Onboarding Workflow in HR+
+
+The HR+ onboarding system automates new hire workflows using task-based templates. Standard onboarding includes:
+- Personal details collection
+- Tax withholding forms (W-4, state-specific forms)
+- Direct deposit setup
+- Employee handbook acknowledgment
+- Code of Conduct training
+- Mandatory compliance courses (security, harassment prevention)
+Tasks are assigned deadlines and completion statuses tracked in real time.
+
+3. Document Management
+
+Documents are stored securely in the encrypted HR+ Document Vault. Supported formats include PDF, JPG, PNG, and DOCX. HR admins can tag documents using the metadata system (document type, expiration date, legal category).
+
+Access permissions follow role-based access control (RBAC):
+- Employee → Access to personal documents
+- Manager → Limited visibility
+- HR/Legal → Full access
+
+4. IT & Security Setup
+
+All new employees must:
+- Set up MFA
+- Change temporary password
+- Complete cybersecurity awareness training within 7 days
+- Agree to Acceptable Use Policy
+
+Workstations are configured with:
+- Endpoint detection & response (EDR)
+- Encrypted hard drives
+- Auto-patch policy
+- Zero-trust network access (ZTNA)
+
+5. First Week Expectations
+
+New hires should complete:
+- Department introduction meetings
+- Job-specific training modules
+- Performance goal-setting session with manager
+- HR orientation webinar
+Managers must track progress using the Onboarding Dashboard.
+
+6. Probation & Performance
+
+The standard probation period is 90 days. Managers must complete:
+- 30-day check-in
+- 60-day performance review
+- 90-day final assessment
+Performance is tracked in HR+ using SMART goals and competency rubrics.

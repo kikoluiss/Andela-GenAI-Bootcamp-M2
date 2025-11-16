@@ -1,0 +1,72 @@
+HR Policies Handbook – Corporate Standards & Regulatory Compliance
+This Human Resources Policies Handbook outlines the mandatory organizational regulations applicable to all employees, contractors, and temporary staff members. It ensures legal compliance, ethical governance, and operational consistency across all business units. This document reflects federal and regional labor requirements, ISO 30414 human capital reporting standards, SOC 2 compliance expectations, and internal governance rules.
+
+1. Code of Conduct
+
+All employees must demonstrate professionalism, confidentiality, non-discrimination, and adherence to organizational values. Violations of integrity—including falsifying records, harassment, retaliation, or misuse of company assets—are subject to disciplinary action.
+
+Confidentiality standards:
+Employees handling personally identifiable information (PII), such as Social Security numbers, payroll data, or health benefit enrollment forms, must adhere strictly to GDPR, CCPA, and internal data-handling guidelines. Protected data must be stored only in approved systems using encryption-at-rest and encryption-in-transit protocols (AES-256 and TLS 1.2+).
+
+Conflict of interest policy:
+Employees must disclose external employment, financial stakes, or vendor relationships that may create a conflict of interest. Annual conflict declarations are mandatory for Directors and above.
+
+2. Attendance & Work Hours Policy
+
+Standard work hours follow a 40-hour workweek, unless region-specific labor codes require alternative arrangements. Employees must accurately track time using the organization’s HR+ Time Tracking system.
+
+Unauthorized overtime:
+All overtime must be explicitly pre-approved. Unapproved overtime may be unpaid if local regulations permit.
+
+Flexible scheduling:
+Eligible employees may request hybrid or remote work arrangements. Approval depends on role sensitivity, department workload, security requirements, and managerial discretion.
+
+3. Leave Policy
+
+The company provides statutory and supplemental leave categories:
+- Vacation Leave – Accrues monthly; capped at 1.5× annual entitlement unless local laws differ
+- Sick Leave – Minimum statutory requirements apply
+- Family & Medical Leave – FMLA-compliant (where applicable)
+- Bereavement Leave – 3–5 days depending on relationship
+- Unpaid Personal Leave – Requires HR approval; maximum 90 days
+Carryover rules depend on regulatory jurisdiction. The HR+ system calculates balances automatically based on local laws.
+
+4. Anti-Harassment & Equal Opportunity Policy
+
+The company follows EEOC guidelines, ensuring a workplace free of discrimination or harassment based on gender, race, disability, sexual orientation, religion, veteran status, or any other protected category.
+
+Employees must complete annual harassment-prevention training via the HR+ Learning Portal. Complaints can be submitted anonymously through the Ethics Hotline.
+
+5. Information Security Policy
+
+Employees must follow cybersecurity protocols, including:
+- Minimum 12-character passwords
+- MFA (Multi-Factor Authentication) required for all systems
+- No external USB devices
+- Mandatory phishing simulations
+- Immediate reporting of suspected breaches
+Violations may trigger disciplinary action, including account suspension.
+
+6. Equipment Policy
+
+The company provides laptops, mobile devices, access badges, and security tokens (YubiKeys). Employees must return all equipment upon termination. Lost devices must be reported within 24 hours for remote wipe.
+
+7. Termination Policy
+
+Termination may be voluntary or involuntary. Exit processes include:
+- Deactivation of system access within 15 minutes
+- Retrieval of company assets
+- Exit interview documentation
+- Final paycheck within legally mandated timelines
+- Continuation of benefits (COBRA in the U.S.)
+
+8. Regulatory Compliance
+
+The company complies with:
+- Fair Labor Standards Act (FLSA)
+- OSHA safety guidelines
+- Equal Employment Opportunity Laws
+- GDPR and CCPA privacy requirements
+- ISO 27001 security controls
+- SOC 2 Type II audit expectations
+All employees are responsible for maintaining compliance and reporting violations.

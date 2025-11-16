@@ -1,0 +1,144 @@
+HR SaaS Company (Policies, Procedures, Features, Platform Support)
+
+HR Platform — Comprehensive FAQ Document
+Welcome to the HR+ Workforce Management System FAQ. This document provides detailed answers to common questions about employee onboarding, payroll, time tracking, leave policies, system features, user permissions, troubleshooting, and best practices. It is intended for HR managers, team leads, and employees who rely on the HR+ platform for daily operations.
+
+1. Account Access & Login Support
+How do I reset my password?
+You can reset your password from the login screen by selecting “Forgot Password.” Enter your registered email address and check your inbox for a reset link. The link expires after 30 minutes. If you do not receive the email, ensure that your spam filter is not blocking noreply@hrplus.com. Administrators can also manually reset passwords from the “User Management” panel.
+
+Why am I unable to log in even with the correct password?
+Several factors may prevent login:
+- Your account may be temporarily locked after five failed attempts.
+- Your organization may require periodic password resets.
+- Single Sign-On (SSO) may override your local password.
+- Your administrator may have suspended your account.
+If none of these apply, contact your system administrator or HR representative.
+
+Does HR+ support Single Sign-On?
+Yes. The platform supports SSO via SAML 2.0, Google Workspace, and Microsoft Entra ID. Organizations must configure SSO in the “Security Settings” panel. Users whose organizations enforce SSO cannot log in using a standard password.
+
+2. Employee Onboarding
+
+How do I start onboarding a new employee?
+HR managers and hiring managers can initiate onboarding under:
+People → Onboarding → Create New Hire.
+Required fields include legal name, job title, department, manager, employment type, and start date. Optional fields include office location, equipment requests, and custom onboarding tasks. Once submitted, the system emails the new hire with portal access instructions.
+
+Can onboarding tasks be customized?
+Yes. Administrators can create workflows by adding tasks such as uploading documents, completing trainings, reading policies, or filling out personal information. Tasks can be assigned deadlines and owners. Onboarding templates can be cloned for faster setup.
+
+What documents are required during onboarding?
+Typical documents include identification forms, tax withholding forms, direct deposit agreements, and company policy acknowledgments. All uploaded documents are stored in the employee’s Document Vault with access permissions defined by the organization.
+
+3. Payroll & Compensation
+
+How is payroll processed through HR+?
+Payroll runs can be scheduled weekly, bi-weekly, or monthly depending on company settings. Payroll administrators can review earnings, deductions, benefits, employer taxes, and adjustments before approving a payroll batch. Once approved, the system generates pay stubs, files taxes electronically, and deposits funds via ACH.
+
+Can employees change their payment method?
+Employees can add or update their bank account information under Profile → Payroll Details. Any changes must be submitted at least three business days before the next payroll processing date.
+
+Does HR+ support multiple pay schedules?
+Yes. Organizations can configure multiple pay groups—for example, salaried staff, hourly staff, and contractors. Each group may have unique pay frequencies, deduction rules, and overtime calculations.
+
+How is overtime calculated?
+Federal law-based defaults apply: time-and-a-half for hours over 40 in a week. Companies operating in regions with different labor laws can override this via Payroll → Overtime Rules. Custom rules can account for daily overtime, double overtime, and alternative workweek schedules.
+
+4. Time Tracking & Attendance
+
+How do employees record work hours?
+Employees can clock in/out using:
+- Web portal
+- Mobile app
+- Approved hardware terminals (RFID/badge systems)
+The system automatically syncs entries across platforms. GPS validation is available for mobile clock-in.
+
+What happens if an employee forgets to clock in?
+The manager or the employee (if allowed) may submit a manual adjustment request. The system logs every change with a timestamp and requires manager approval to prevent time fraud.
+
+Can the platform track breaks and meals?
+Yes. Break reminders can be enabled for regulatory compliance. Employers can define required meal periods, rest breaks, and penalties. Timecards display break durations and flag any compliance violations.
+
+5. Paid Time Off (PTO) & Leave Policies
+
+How do employees request PTO?
+Employees submit requests under Time Off → Request Leave. They must specify dates, type of leave, and optional notes. Managers receive notifications and can approve or deny requests via email or directly within the platform.
+
+What types of leave are supported?
+HR+ supports:
+- Vacation
+- Sick leave
+- Parental leave
+- Bereavement
+- Jury duty
+- Special/company-specific leave types
+Custom leave categories can be added by administrators.
+
+How are PTO balances calculated?
+Balances are updated automatically based on accrual rules. Organizations can define accrual frequencies (per pay period, monthly, or annually), carryover limits, negative balance allowances, and accrual caps.
+
+Can employees view their PTO history?
+Yes. The PTO dashboard shows pending requests, approved leave, declined requests, annual accruals, and remaining balances.
+
+6. Performance Management
+
+Does HR+ support performance reviews?
+Yes. The system includes self-assessments, manager reviews, peer feedback, goal tracking, and cycle automation. HR teams can create templates for different roles or departments.
+
+How do goals work?
+Goals can be set as individual, team, or company-wide objectives. Each goal can include KPIs, progress metrics, deadlines, and alignment to organizational strategies. Smart Goals (Specific, Measurable, Achievable, Relevant, Time-bound) are recommended.
+
+Can performance cycles be automated?
+Yes. HR can schedule annual, quarterly, or custom review cycles. Automated reminders ensure that participants complete evaluations on time.
+
+7. Benefits Enrollment
+
+How does open enrollment work?
+Employees receive notifications when open enrollment begins. They can browse available health, dental, vision, retirement, or supplemental plans in the Benefits Portal. Comparisons display premiums, deductibles, out-of-pocket costs, and network coverage.
+
+Can employees make mid-year changes?
+Typically no—unless a qualifying life event (QLE) occurs, such as marriage, divorce, birth, adoption, or significant income changes. Employees must submit documentation within 30 days of the event.
+
+Are benefit deductions automatically applied?
+Yes. Once an employee selects benefits, payroll deductions are updated instantly.
+
+8. User Roles & Permissions
+
+What permission levels exist?
+HR+ includes:
+- Employee
+- Manager
+- HR Manager
+- Payroll Admin
+- System Admin
+- Custom roles
+Each role can be customized to restrict or grant access to sensitive information.
+
+Can managers see employee salaries?
+By default, only HR and Payroll Admins can view compensation details. Managers may be granted limited salary visibility based on organizational settings.
+
+Can a user have multiple roles?
+Yes. A user may be assigned multiple roles if permitted by the organization. Permissions stack, meaning the most privileged permission applies.
+
+9. System Settings & Customization
+
+Can we customize the dashboard?
+Yes. Widgets such as announcements, KPI tiles, time tracking shortcuts, and upcoming deadlines can be rearranged per user. Administrators can add company-wide widgets.
+
+Does HR+ integrate with other tools?
+Supported integrations include Slack, Microsoft Teams, QuickBooks, ADP, Workday, Greenhouse, and Zapier. Custom integrations can be configured via the API.
+
+Is there an audit log?
+Yes. All critical actions—including login attempts, profile updates, payroll changes, and approval actions—are logged with timestamp, user ID, IP address, and action details.
+
+10. Troubleshooting & Support
+
+Why am I not receiving notification emails?
+Check spam filters and ensure your company email firewall allows traffic from notifications@hrplus.com. Also confirm that your notification preferences are enabled in your profile.
+
+Why can’t I upload documents?
+Ensure the file is under 25 MB and formats allowed include PDF, PNG, JPG, and DOCX. Also confirm you have the correct permissions—some upload folders are admin-only.
+
+How do I contact support?
+Users can submit a ticket through Help → Submit Ticket or email support@hrplus.com. Enterprise clients have access to live chat and phone support during business hours.

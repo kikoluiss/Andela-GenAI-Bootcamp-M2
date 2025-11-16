@@ -1,0 +1,74 @@
+[
+  {
+    "user_question": "How do I reset my HR portal password?",
+    "system_answer": "Here\u2019s how to reset your HR portal password:\n\n- Go to the login screen and click \u201cForgot Password.\u201d\n- Enter your registered email address.\n- Check your inbox for the reset link (the link expires after 30 minutes).\n- If you don\u2019t receive the email, check your spam filter to ensure noreply@hrplus.com isn\u2019t blocked.\n- Administrators can also manually reset passwords from the \u201cUser Management\u201d panel if needed.",
+    "chunks_related": [
+      {
+        "source": "data/faq_document.txt",
+        "content": "You can reset your password from the login screen by selecting \u201cForgot Password.\u201d Enter your registered email address and check your inbox for a reset link. The link expires after 30 minutes. If you do not receive the email, ensure that your spam filter is not blocking noreply@hrplus.com."
+      },
+      {
+        "source": "data/faq_document.txt",
+        "content": "is not blocking noreply@hrplus.com. Administrators can also manually reset passwords from the \u201cUser Management\u201d panel."
+      },
+      {
+        "source": "data/faq_document.txt",
+        "content": "1. Account Access & Login Support\nHow do I reset my password?"
+      }
+    ]
+  },
+  {
+    "user_question": "Can I work overtime without authorization?",
+    "system_answer": "No. All overtime must be explicitly pre-approved. Unapproved overtime may be unpaid, depending on local regulations. \n\nNote:\n- Federal default: time-and-a-half for hours over 40 in a week.\n- Regions with different rules can override this via Payroll \u2192 Overtime Rules.\n- The system also supports other overtime configurations as needed.",
+    "chunks_related": [
+      {
+        "source": "data/policies.txt",
+        "content": "Unauthorized overtime:\nAll overtime must be explicitly pre-approved. Unapproved overtime may be unpaid if local regulations permit."
+      },
+      {
+        "source": "data/faq_document.txt",
+        "content": "Federal law-based defaults apply: time-and-a-half for hours over 40 in a week. Companies operating in regions with different labor laws can override this via Payroll \u2192 Overtime Rules. Custom rules can account for daily overtime, double overtime, and alternative workweek schedules."
+      },
+      {
+        "source": "data/payroll.txt",
+        "content": "The payroll engine applies federal and regional laws. Configurable options:\n- Fixed workweek (default: Sun\u2013Sat)\n- Daily overtime (California compliant)\n- Weighted average overtime for variable rates\n- Alternative workweek schedules\nAll calculations use ISO 20022-compliant rounding rules."
+      }
+    ]
+  },
+  {
+    "user_question": "How many vacation days can I have per year?",
+    "system_answer": "- Vacation Leave accrues monthly.\n- It is capped at 1.5\u00d7 your annual entitlement (though local laws may set a different cap).\n- The exact number of vacation days per year depends on your local laws and your specific annual entitlement; the HR+ system calculates and shows your balance automatically.\n\nIf you want the exact figure, check your HR+ profile or tell me your location and entitlement details, and I can help interpret.",
+    "chunks_related": [
+      {
+        "source": "data/policies.txt",
+        "content": "The company provides statutory and supplemental leave categories:\n- Vacation Leave \u2013 Accrues monthly; capped at 1.5\u00d7 annual entitlement unless local laws differ\n- Sick Leave \u2013 Minimum statutory requirements apply\n- Family & Medical Leave \u2013 FMLA-compliant (where applicable)"
+      },
+      {
+        "source": "data/policies.txt",
+        "content": "- Bereavement Leave \u2013 3\u20135 days depending on relationship\n- Unpaid Personal Leave \u2013 Requires HR approval; maximum 90 days\nCarryover rules depend on regulatory jurisdiction. The HR+ system calculates balances automatically based on local laws."
+      },
+      {
+        "source": "data/faq_document.txt",
+        "content": "Can employees make mid-year changes?\nTypically no\u2014unless a qualifying life event (QLE) occurs, such as marriage, divorce, birth, adoption, or significant income changes. Employees must submit documentation within 30 days of the event."
+      }
+    ]
+  },
+  {
+    "user_question": "What is the company's policy on remote work?",
+    "system_answer": "- The company allows eligible employees to request hybrid or remote work arrangements.\n- Approvals are not automatic and depend on:\n  - Role sensitivity\n  - Department workload\n  - Security requirements\n  - Managerial discretion\n- Additional notes: The company provides equipment (laptop, mobile devices, access badges, security tokens) for remote work, and employees must return all equipment upon termination. Lost devices must be reported within 24 hours for remote wipe.",
+    "chunks_related": [
+      {
+        "source": "data/policies.txt",
+        "content": "6. Equipment Policy\n\nThe company provides laptops, mobile devices, access badges, and security tokens (YubiKeys). Employees must return all equipment upon termination. Lost devices must be reported within 24 hours for remote wipe.\n\n7. Termination Policy"
+      },
+      {
+        "source": "data/policies.txt",
+        "content": "Flexible scheduling:\nEligible employees may request hybrid or remote work arrangements. Approval depends on role sensitivity, department workload, security requirements, and managerial discretion.\n\n3. Leave Policy"
+      },
+      {
+        "source": "data/policies.txt",
+        "content": "4. Anti-Harassment & Equal Opportunity Policy\n\nThe company follows EEOC guidelines, ensuring a workplace free of discrimination or harassment based on gender, race, disability, sexual orientation, religion, veteran status, or any other protected category."
+      }
+    ]
+  }
+]

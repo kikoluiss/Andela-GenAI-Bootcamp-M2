@@ -1,0 +1,72 @@
+Payroll & Compensation Management Manual – Systems, Rules & Processing
+
+This manual describes payroll operations, compensation structures, deduction rules, and compliance standards applicable organization-wide.
+
+1. Pay Schedules
+
+Supported payroll frequencies:
+- Weekly
+- Bi-weekly
+- Semi-monthly
+- Monthly
+Pay groups support different schedules for salaried, hourly, and contractor employees.
+
+2. Earnings & Pay Types
+
+HR+ supports multiple earning codes:
+- Regular earnings
+- Overtime (1.5×)
+- Double-time (2×)
+- Holiday pay
+- On-call pay
+- Shift differential
+- Commissions
+- Bonuses (taxable and non-taxable)
+- Retroactive adjustments
+
+3. Overtime Calculation Engine
+
+The payroll engine applies federal and regional laws. Configurable options:
+- Fixed workweek (default: Sun–Sat)
+- Daily overtime (California compliant)
+- Weighted average overtime for variable rates
+- Alternative workweek schedules
+All calculations use ISO 20022-compliant rounding rules.
+
+4. Deductions & Taxes
+Supported deductions:
+- Pre-tax (401k, HSA, FSA)
+- Post-tax (garnishments, union dues, charity)
+- Employer contributions
+- Benefit premiums
+
+The system calculates:
+- Federal income tax (FIT)
+- Social Security & Medicare (FICA)
+- State income tax
+- Local taxes (municipal, county)
+HR+ integrates with government e-Filing services for automatic submission.
+
+5. Direct Deposit & Payments
+
+Employees may add up to 3 bank accounts. ACH transfers comply with NACHA standards. For international employees, SEPA and SWIFT transfers are supported.
+
+6. Payroll Processing Workflow
+- Import/validate timecards
+- Validate PTO usage
+- Review earnings and deductions
+- Approve batch
+- Generate pay stubs
+- Trigger ACH processing
+- File taxes electronically
+- Update employee YTD records
+
+7. Audits & Reporting
+
+Payroll admins may run:
+- YTD compensation reports
+- Tax liability summaries
+- Labor distribution reports
+- Overtime audit logs
+- Garnishment compliance reports
+All exports support CSV, XLSX, and JSON formats.

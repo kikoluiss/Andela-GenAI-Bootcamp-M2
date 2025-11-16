@@ -1,0 +1,48 @@
+Time Tracking & Attendance Guide – System Usage, Automation & Compliance
+
+This guide explains the HR+ Time Tracking module, which supports automated attendance, labor compliance, and detailed work-hour reporting.
+
+1. Clocking Methods
+
+Employees can clock in using:
+- Web portal
+- Mobile app (with GPS & geofencing)
+- Biometric timeclock
+- RFID terminal
+Time entries sync automatically within 30 seconds.
+
+2. Break & Meal Compliance
+
+HR+ includes built-in compliance rules for:
+- Mandatory meal breaks
+- Short rest breaks
+- Penalty pay for missed meals
+- Split-shift rules
+- Double compliance regions (e.g., CA, NY)
+Violations appear on timecard audits.
+
+3. Timesheet Approvals
+
+Managers must approve timesheets by the end of each pay period. Approval actions include:
+- Approve
+- Reject with comments
+- Request correction
+All actions have immutable audit logs (timestamp, IP, user ID).
+
+4. Scheduling Module
+
+Schedules include:
+- Fixed shifts
+- Rotating shifts
+- Split shifts
+- On-call schedules
+- Demand-driven forecasting (for retail/hospitality)
+HR+ provides labor forecasting using historical utilization and seasonal trends.
+
+5. Manual Adjustments
+
+Manual adjustments require:
+- Manager approval
+- Employee acknowledgment
+- Reason code selection (missed punch, malfunction, correction)
+Changes are stored indefinitely for audit compliance.

@@ -1,0 +1,42 @@
+Benefits & Compliance Reference – Health, Retirement & Regulatory Standards
+
+This document defines the benefit programs available to employees along with compliance requirements and eligibility rules.
+
+1. Health Benefits
+
+Offered plans:
+- PPO
+- HMO
+- High Deductible Health Plans (HDHP)
+- Dental & Vision
+- Mental health support programs
+All plans comply with ACA coverage requirements.
+
+2. Retirement Plans
+
+Supported retirement options:
+- 401(k) (traditional & Roth)
+- Employer matching
+- Vesting schedules
+- Automatic enrollment rules
+
+3. Life Events & Eligibility
+
+Employees may modify benefits during:
+- Open enrollment
+- Qualifying life events (marriage, birth, adoption)
+- Loss of other coverage
+Changes must be submitted within 30 days of event.
+
+4. COBRA & Termination Benefits
+
+For U.S. employees, the company provides COBRA continuation coverage. Notices are automatically generated through HR+ and emailed to departing employees.
+
+5. Compliance Programs
+
+HR+ includes support for:
+- ERISA reporting
+- ACA 1095-C forms
+- HIPAA privacy compliance
+- Non-discrimination testing (NDT)
+- Dependent eligibility audits
